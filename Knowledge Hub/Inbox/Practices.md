@@ -1,0 +1,4 @@
+# Practices and Guidelines
+> While creating and using guidelines documents help ensure success —to the point that we propose our own Eight Golden Rules (Section 3.3.4 )— we also want to reiterate our argument that t**he discipline of human-computer interaction needs to transcend speciﬁc guidelines and derive basic theories underlying these phenomena.**  Most practical guidelines can be traced back to micro-level and macro-level HCI theories. While a list of guidelines can be highly useful precisely because they are practical and pragmatic, successful designers remain aware of the underlying theories from where they stem.
+
+## Links to [[Guidelines]]

@@ -1,0 +1,2 @@
+# temptation bundling
+> You see, there’s a strategy that the author calls temptation bundling. It’s a way of pairing a pleasurable activity with a demanding but worthwhile task in order to make the work seem more appealing – just as Mary Poppins sweetened some unpleasant medicine with a bit of sugar. For example, you might allow yourself to watch trashy TV while you’re jogging on a treadmill, or eat your favorite candy while you’re studying

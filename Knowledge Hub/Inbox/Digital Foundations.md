@@ -1,0 +1,6 @@
+# Digital Foundations
+Traditional brand guidelines typically cover the do’s and don’ts of logo, colours, art direction, brand values, and tone of voice. They are applicable to everything a company does. Some companies might publish these guidelines in a ‘brand book’. Some companies produce a simple PDF.
+
+Digital is different. The same principles we apply to physical spaces and print mediums don’t always work for digital, and there are some considerations that only affect digital. Factors like [[accessibility]] and **user experience** impact things like the colours we use (e.g. blue for navigation, red for errors, and green for success, etc.). There are other considerations such as **typography, animation, grids, responsive design, different platforms and operating systems, localisation, formatting, animation, load times**, etc. which are unique to the digital experience.
+
+> Where a brand book typically comes in print or PDF forms, the ever changing nature of digital experiences requires a more — well — digital approach. Digital Foundations are better suited to a dynamic, accessible, and easily editable digital form. Some companies choose to make their digital brand guidelines public, and we’ll look at a few of those in a bit. Others are private — for employee eyes only.

@@ -1,0 +1,11 @@
+- A design system is a living style guide that’s collaborative and code-connected.
+- It starts with the [[styles]] and [[components]] in Figma, then move its way into the team library to finally become code components that exist in a place.
+- The [[foundation]] of your design system set the tone of your design language. It’s important to formulate the context for the branding, clearly indicating how your logo should be used appropriately. Also, you should set the main colors, typography and grids.
+  ![[Pasted image 20211206104215.png]]
+- Most of the [[foundation]] element are set in the [[styles]], which contains **Colors** (including gradients and images), **Text** and even **Effects**. You can make them readily available as a Library.
+- Another important piece of the  [[foundation]]  is setting the rules for negative spacing, page division and elements placement using grids. You can demonstrate how to harmonize elements using different sets of elements together, or use the drop shadows in order to be consistent with your design language.
+- [[components]] are building blocks for your design system. They’re generally collections of elements put together in a reusable way, such as for buttons, forms, navigations, cards, cells and overlays. Component elements like text content, colors and images can be customized in the Inspector. A button component can be duplicated many times, with different content and styles.
+- Additionally, you can have  [[components]]  within  [[components]] , allowing you to customize even the most complex groups of elements, like icons, states and complex themes.
+- [[Assets]] an be icons, backgrounds, avatars and other images used to fill the content of your app.
+- [[Team Libraries ]]allow you to share your components, styles and assets across your whole team.
+- 

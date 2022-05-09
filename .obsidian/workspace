@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "c89782422b360396",
+    "type": "split",
+    "children": [
+      {
+        "id": "822a01cebc5eec2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Areas/German.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f044c6c9eb184d3e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Knowledge Hub/Inbox/A2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fec10e8ebc361542",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba1eec713ea30d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f6b9a1f8e382c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f1aec4e2f959f76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24f3dbffed97caf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff57a21d977e974e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74ad50c0ca62dc06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge Hub/Inbox/A2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f044c6c9eb184d3e",
+  "lastOpenFiles": [
+    "Knowledge Hub/Inbox/A2.md",
+    "Areas/German.md",
+    "Excalidraw/Human Computer Interaction Mind map.md",
+    "Excalidraw/Drawing 2022-01-02 15.04.20.excalidraw.png",
+    "Excalidraw/Drawing 2022-01-02 15.04.20.excalidraw.md"
+  ]
+}

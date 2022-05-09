@@ -1,0 +1,25 @@
+# Economic Reasoning for International Trade
+
+## Learning Outcomes
+
+1.  Understand the benefits of trade and the concepts of absolute and comparative advantage.
+2.  Understand the different barriers to trade and how that results in a deadweight loss.
+3.  Understand the consequences of following protectionism in trade.
+
+## Shala Notes
+
+1.  There are generally two forms of exchange: voluntary and involuntary. Voluntary exchange is called trade and involuntary exchange is theft or appropriation. Trade has the potential to make everyone better off. People trade because they benefit from it. People trade to further their self-interest. Individual maximization of self-interest leads to overall social welfare. It involves the movement of resources from a low-value use to a high-value use.
+2.  Trade allows each person to specialize in the activities he or she does best, i.e., at the lowest cost. By trading with others, people can buy a greater variety of goods and services at lower cost.
+3.  A person who is undoubtedly the best at something is said to have an absolute advantage. However, we engage in activities where we have a comparative advantage. It is possible to have an absolute advantage in an activity, but not comparative advantage.
+4.  A person or a country is said to have a comparative advantage in an activity if they can produce a good or service at a lower cost. Virat Kohli may be one of the best batsmen in the country and has an absolute advantage in batting. He might also be the fastest typist in the country, giving him an absolute advantage at that too. Does he have a comparative advantage in both activities? The answer is no!
+5.  If Kohli took time off from batting to do his own typing, then he sacrifices the large amounts of money he gets from entertaining cricket fans the world over (high opportunity cost). However, if he hires a typist who might be sacrificing a similar or lower paying job (lower opportunity cost), then it is the secretary who is the lower-cost typist. Thus, Kohli has a comparative advantage in batting and the secretary has a comparative advantage in typing and it makes economic sense for Kohli to hire and pay wages to the secretary and focus on his batting.
+6.  Countries also trade based on their comparative advantage. A country can have an absolute advantage in many things, but it will produce goods in which it has a comparative advantage in and trade with other countries who have specialized in their own comparative advantage. The moral is this: To find people's comparative advantages, do not compare their absolute advantages. Compare their opportunity costs.
+7.  For an excellent exposition on comparative advantage, read “Treasure Island: The Power of Trade. Part I. The Seemingly Simple Story of Comparative Advantage” by Russ Roberts on Econ Lib, given as a reference here.
+8.  A barrier to trade is a government-imposed restraint on the flow of international goods or services.
+9.  The most common barrier to trade is a tariff—a tax on imports. Tariffs raise the price of imported goods relative to domestic goods (goods produced at home).
+10.  Another common barrier to trade is a government subsidy to a particular domestic industry. Subsidies make those goods cheaper to produce than in foreign markets. This results in a lower domestic price. Both tariffs and subsidies raise the price of foreign goods relative to domestic goods, which reduces imports.
+11.  Yet another barrier to trade is an embargo—a blockade or political agreement that limits a foreign country's ability to export or import.
+12.  Barriers to trade are often called "protection" because their stated purpose is to shield or advance particular industries or segments of an economy. From an economic perspective, though, the costs to the economy almost always outweigh the benefits enjoyed by those who are protected.
+13.  For a more detailed exposition regarding protectionism, please read the attached note titled “Popular Myths Regarding Protectionism”
+14.  Generally, any barriers to trade end up creating a deadweight loss to the economy.
+15.  Do note that barriers to trade often emerge due to reciprocity. If one economy levies a tariff against another economy, this can cause retaliation and soon this will lead to a race to the bottom situation with competitive trade barriers that ends up hurting every country involved. The same applies to situations where governments give subsidies to private manufacturers in order to make them competitive in the world market. The WTO trade agreements disallow protectionist measures by countries. It also clamps down upon trade moves such as dumping, which occurs when manufacturers export a product to another country at a price below the normal/domestic price. The objective of dumping is to increase market share in a foreign market by driving out competition and thereby create a monopoly situation where the exporter will be able to unilaterally dictate price and quality of the product.
